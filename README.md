@@ -16,31 +16,7 @@ Python (Pandas, Matplotlib, Seaborn)
 Power BI (Interactive Dashboard)
 Jupyter Notebook
 CSV Data Processing
-Project Structure
-Delhi-Metro-Analysis/
-│
-├── Codes/
-│   ├── 01_load_clean.ipynb
-│   ├── 02_analysis.ipynb
-│   ├── 03_visualization.ipynb
-│   └── 04_export_powerbi.ipynb
-│
-├── Data/
-│   ├── raw_Delhi_metro.csv
-│   └── delhi_metro_cleaned.csv
-│
-├── outputs/
-│   └── visualization images (.png)
-│
-├── power BI/
-│   ├── delhi_metro.pbix
-│   └── processed datasets (.csv)
-│
-├── tables/
-│   ├── crosstab_line_layout.csv
-│   └── pivot_line_layout.csv
-│
-└── README.md
+
 Key Insights
 Total Stations: 285+
 Total Metro Lines: 13
