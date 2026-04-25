@@ -1,0 +1,14 @@
+metro_line,avg_dist,max_dist,min_dist,total_dist
+Aqua Line,13.35,27.1,0.0,280.4
+Blue Line,26.14,52.7,0.0,1281.1
+Blue Line Branch,4.0,8.1,0.0,32.0
+Gray Line,1.8,3.9,0.0,5.4
+Green Line,11.38,24.8,0.0,239.0
+Green Line Branch,1.07,2.1,0.0,3.2
+Magenta Line,17.66,33.1,0.0,441.4
+Orange Line,10.57,20.8,0.0,63.4
+Pink Line,28.77,52.6,0.0,1093.4
+Rapid Metro,5.71,10.0,0.0,62.8
+Red Line,16.56,32.7,0.0,480.2
+Voilet Line,20.62,43.5,0.0,701.0
+Yellow Line,21.46,45.7,0.0,794.1
